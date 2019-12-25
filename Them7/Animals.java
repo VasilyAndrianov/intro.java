@@ -1,4 +1,4 @@
-package Them6;
+package Them7;
 //Класс животные
 public abstract class Animals {
 
